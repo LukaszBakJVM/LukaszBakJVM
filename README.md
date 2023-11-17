@@ -8,4 +8,4 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
-//![](https://komarev.com/ghpvc/?username=LukaszBakJVM)
+
